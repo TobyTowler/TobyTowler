@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything I can
 - 🤔 I’m looking for help with experience, jobs, learning
 
-## Experience in:
+## Experience with:
 - 🦞 Java
 - 🦞 C
 - 🦞 C++
@@ -28,3 +28,5 @@ Here are some ideas to get you started:
 - 🦞 HTML
 - 🦞 CSS
 - 🦞 JaveScript
+
+### vvv Check out some projects vvv
