@@ -1,4 +1,4 @@
-<center> ### Hello World <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" /> </center>
+ ### <center> Hello World <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" /> </center>
 
 <!--
 **TobyTowler/TobyTowler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with experience, jobs, learning
 
 ## Experience in:
-🦞 Java
-🦞 C
-🦞 C++
-🦞 C#
-🦞 Python
-🦞 HTML
-🦞 CSS
-🦞 JaveScript
+- 🦞 Java
+- 🦞 C
+- 🦞 C++
+- 🦞 C#
+- 🦞 Python
+- 🦞 HTML
+- 🦞 CSS
+- 🦞 JaveScript
