@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
 
 <!--
 **TobyTowler/TobyTowler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Computer Systems Engineering degree
+- 🌱 I’m currently learning everything I can
+- 🤔 I’m looking for help with experience, jobs, learning
