@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 - 🦞 C
 - 🦞 C++
 
-### Previous experience with
-- 🦞 C#
-- 🦞 Python
+### Previous experience with:
+- 🦞 C# - A level
+- 🦞 Python - GCSE
 - 🦞 HTML
 - 🦞 CSS
 - 🦞 JaveScript
 
-### vvv Check out some projects vvv
+# vvv Check out some projects vvv
