@@ -19,14 +19,16 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything I can
 - 🤔 I’m looking for help with experience, jobs, learning
 
-## Confidence with:
+
+## Programming languages
+### Confident with:
 - 🦞 Java
 
-## Currently learning:
+### Currently learning:
 - 🦞 C
 - 🦞 C++
 
-## Previous experience with
+### Previous experience with
 - 🦞 C#
 - 🦞 Python
 - 🦞 HTML
