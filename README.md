@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 ## Programming languages
-### Confident with:
+### Most confident with:
 - 🦞 Java
 
 ### Currently learning:
