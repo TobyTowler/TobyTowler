@@ -15,12 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# About me
+
 - 🔭 I’m currently working on Computer Systems Engineering degree
 - 🌱 I’m currently learning everything I can
 - 🤔 I’m looking for help with experience, jobs, learning
 
-
-## Programming languages
+You can find my personal configs and files in ***[my personal](https://github.com/TobyTowler/TobyTowler)*** directory
+# Programming languages
 ### Most confident with:
 - 🦞 Java
 
