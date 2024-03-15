@@ -20,11 +20,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Computer Systems Engineering degree
 - 🌱 I’m currently learning everything I can
 - 🤔 I’m looking for help with experience, jobs, learning
-
-# My setup
-
-- You can find my personal configs and files in ***[my personal](https://github.com/TobyTowler/TobyTowler)*** directory
-- My favourite project I have made **[TType](https://github.com/TobyTowler/TTypeRestructured)**
+- ⚡ You can find my personal configs and files in ***[my personal](https://github.com/TobyTowler/TobyTowler)*** directory
+- 💬 My favourite project:  **[TType](https://github.com/TobyTowler/TTypeRestructured)**
 
 # Programming languages
 ### Most confident with:
