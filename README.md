@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Computer Systems Engineering degree
 - 🌱 I’m currently learning everything I can
 - 🤔 I’m looking for help with experience, jobs, learning
-- ⚡ You can find my personal configs and files in my***[ dotfiles ](https://github.com/TobyTowler/dotfiles)*** directory
+- ⚡ You can find my personal configs and files in my **[ dotfiles ](https://github.com/TobyTowler/dotfiles)** directory
 - 💬 My favourite project:  **[TType](https://github.com/TobyTowler/TTypeRestructured)**
 
 # Programming languages
