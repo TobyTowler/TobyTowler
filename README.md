@@ -24,14 +24,12 @@ Here are some ideas to get you started:
 - 💬 My favourite project:  **[TType](https://github.com/TobyTowler/TTypeRestructured)**
 
 # Programming languages
-### Most confident with:
+### Made projects with:
 - 🦞 Java
-
-### Currently learning:
 - 🦞 C
 - 🦞 C++
 
-### Previous experience with:
+### Other experience with:
 - 🦞 C# - A level
 - 🦞 Python - GCSE
 - 🦞 HTML
