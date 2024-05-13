@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 - 🦞 Java
 - 🦞 C
 - 🦞 C++
+- 🦞 Python
 
 ### Other experience with:
 - 🦞 C# - A level
-- 🦞 Python - GCSE
 - 🦞 HTML
 - 🦞 CSS
 - 🦞 JaveScript
