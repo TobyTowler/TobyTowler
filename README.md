@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 -->
 
 # About me
-
-- 🔭 I’m currently working on Computer Systems Engineering degree
-- 🌱 I’m currently learning everything I can
-- 🤔 I’m looking for help with experience, jobs, learning
 - 💬 Favourite project:  **[TType](https://github.com/TobyTowler/TTypeRestructured)**
 - ⚡  **[ Dotfiles ](https://github.com/TobyTowler/dotfiles)**
 - 📫 **[CV](https://github.com/TobyTowler/JobStuff/blob/main/TobyTowler.pdf)**
@@ -31,7 +27,8 @@ Here are some ideas to get you started:
 - 🦞 C
 - 🦞 C++
 - 🦞 Python
-- 🦞 F#/C#
+- 🦞 F#
+- 🦞 C#
 
 ### Other experience with:
 - 🦞 HTML
