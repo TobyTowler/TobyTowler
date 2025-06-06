@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 - 📫 **[CV](https://github.com/TobyTowler/JobStuff/blob/main/TobyTowler.pdf)**
 - 📝 Contributor to **[Fields2Cover](https://github.com/Fields2Cover/Fields2Cover)**
 
+- 🖥️ My setup:
+    - Arch linux
+    - Hyprland
+    - Neovim
+
 # Programming languages
 ### Made projects with:
 - 🦞 Java
