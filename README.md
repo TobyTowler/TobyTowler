@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # About me
 - 💬 Favourite project:  **[TType](https://github.com/TobyTowler/TTypeRestructured)**
 - ⚡  **[ Dotfiles ](https://github.com/TobyTowler/dotfiles)**
-- 📫 **[CV](https://github.com/TobyTowler/jobStuff/blob/main/TobyTowler.tex)**
+- 📫 **[CV](https://github.com/TobyTowler/jobStuff/blob/main/TobyTowler.pdf)**
 - 📝 Contributor to **[Fields2Cover](https://github.com/Fields2Cover/Fields2Cover)**
 
 - 🖥️ My setup:
