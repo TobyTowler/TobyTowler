@@ -19,25 +19,24 @@ Here are some ideas to get you started:
 - 💬 Favourite project:  **[TType](https://github.com/TobyTowler/TTypeRestructured)**
 - ⚡  **[ Dotfiles ](https://github.com/TobyTowler/dotfiles)**
 - 📫 **[CV](https://github.com/TobyTowler/jobStuff/blob/main/TobyTowler.pdf)**
+- 🎬 I sometimes make **[YouTube videos](https://www.youtube.com/@1SpooG11/videos)**
 - 📝 Contributor to **[Fields2Cover](https://github.com/Fields2Cover/Fields2Cover)**
 
 - 🖥️ My setup:
-    - Arch linux
+    - EndeavourOS
     - Hyprland
     - Neovim
 
 # Programming languages
+### Professional Experience:
+- 🦞 C++
+- 🦞 Python
+ 
 ### Made projects with:
 - 🦞 Java
 - 🦞 C
-- 🦞 C++
-- 🦞 Python
 - 🦞 F#
 - 🦞 C#
 
-### Other experience with:
-- 🦞 HTML
-- 🦞 CSS
-- 🦞 JaveScript
 
 # vvv Check out some projects vvv
