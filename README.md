@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - ⚡  **[ Dotfiles ](https://github.com/TobyTowler/dotfiles)**
 - 📫 **[CV](https://github.com/TobyTowler/jobStuff/blob/main/TobyTowler.pdf)**
 - 🎬 I sometimes make **[YouTube videos](https://www.youtube.com/@1SpooG11/videos)**
-- 📝 Contributor to **[Fields2Cover](https://github.com/Fields2Cover/Fields2Cover)**
 
 - 🖥️ My setup:
     - EndeavourOS
